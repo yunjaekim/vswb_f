@@ -12,6 +12,7 @@
 * xml2js
 
 ## install & start
+0. vswbServer\system\vswbServer.ini Setting
 1. npm install
 2. node server.js
 
