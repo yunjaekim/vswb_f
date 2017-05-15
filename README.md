@@ -10,3 +10,11 @@
 * passport-local
 * request
 * xml2js
+
+## install & start
+1. npm install
+2. node server.js
+
+## api call
+1. /api/rt/total
+2. /api/rt/inner
