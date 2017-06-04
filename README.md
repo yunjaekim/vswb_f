@@ -1,4 +1,6 @@
-# vswb_f
+# VSWB
+Very Simple Weather Bot
+
 
 ## lib
 * express
@@ -18,4 +20,5 @@
 
 ## api call
 1. /api/rt/total
-2. /api/rt/inner
+2. /api/rt/inner?localname=
+3. /api/st/locallist

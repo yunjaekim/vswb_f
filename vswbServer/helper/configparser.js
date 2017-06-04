@@ -31,3 +31,8 @@ module.exports.GetInnMesureFeature = function () {
 module.exports.GetInnMesureParam = function () {
     return config.InnMesure.Param;
 }
+
+// DB
+module.exports.GetDBUrl = function () {
+    return config.DB.Url;
+}
