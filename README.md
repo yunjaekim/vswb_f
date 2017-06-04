@@ -20,5 +20,5 @@ Very Simple Weather Bot
 
 ## api call
 1. /api/rt/total
-2. /api/rt/inner?localname=
+2. /api/rt/inner?localname=서울
 3. /api/st/locallist
